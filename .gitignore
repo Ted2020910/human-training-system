@@ -1,0 +1,16 @@
+# 编辑器和系统文件
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# 临时与导出文件
+*.tmp
+*.temp
+*.bak
+~$*
+
+# 运行日志
+*.log
